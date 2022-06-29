@@ -1,2 +1,45 @@
-body{background-color:#222;color:#fff;font-family:sans-serif;font-size:2rem;margin:30px}.App{align-items:stretch;display:flex;flex-direction:column;justify-content:center;text-align:center}h1{font-weight:200}.linha{display:flex;flex-wrap:wrap}.Intervalo input{font-size:1.25rem;margin-left:20px;margin-right:20px;width:100px}.Card{background-color:#41c0e0;display:flex;flex:1 1;flex-direction:column;margin:5px}.Card .Header{background-color:#2f49da;display:flex;flex-direction:row;justify-content:center;padding:5px}.Card .Content{padding:20px}
+body {
+  background-color: #222;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 2rem;
+  margin: 30px;
+}
+.App {
+  align-items: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+h1 {
+  font-weight: 200;
+}
+.linha {
+  display: flex;
+  flex-wrap: wrap;
+}
+.Intervalo input {
+  font-size: 1.25rem;
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 100px;
+}
+.Card {
+  background-color: #41c0e0;
+  display: flex;
+  flex: 1 1;
+  flex-direction: column;
+  margin: 5px;
+}
+.Card .Header {
+  background-color: #2f49da;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 5px;
+}
+.Card .Content {
+  padding: 20px;
+}
 /*# sourceMappingURL=main.bcf4bd4d.css.map*/
