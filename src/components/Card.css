@@ -1,0 +1,18 @@
+.Card {
+  flex: 1;
+
+  background-color: #41c0e0;
+  flex-direction: column;
+  margin: 5px;
+  display: flex;
+}
+.Card .Header {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding: 5px;
+  background-color: rgb(47, 73, 218);
+}
+.Card .Content {
+  padding: 20px;
+}
